@@ -14,3 +14,13 @@ terraform apply
 " destroy de infraestructure
 
 terraform destroy
+
+# Format and validate the configuration
+
+terraform fmt  # format the configuration file
+
+terraform validate  # validate the configuration file
+
+# Terraform state
+
+terraform state list  # list the resources that are in the state file
