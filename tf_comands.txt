@@ -1,0 +1,16 @@
+" initialization project of terraform.
+
+terraform init 
+
+" see the plan or things that will go to generate.
+
+terraform plan
+
+" create the infraestructure.
+
+terraform apply
+
+
+" destroy de infraestructure
+
+terraform destroy
