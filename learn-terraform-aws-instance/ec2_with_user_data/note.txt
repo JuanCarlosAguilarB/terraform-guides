@@ -1,0 +1,5 @@
+
+
+Adding user_data is a way to add perform some configuration on the EC2 instance during creation, such as setting the hostname, mounting a file share, or installing a software package.
+
+https://registry.terraform.io/providers/serverscom/serverscom/latest/docs/guides/user-data
